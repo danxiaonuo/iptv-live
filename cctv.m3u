@@ -1,0 +1,36 @@
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="CCTV",CCTV-1综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png" group-title="CCTV",CCTV-2财经
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/CCTV-3_Logo.png" group-title="CCTV",CCTV-3综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV",CCTV-4中文国际
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CCTV",CCTV-5体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV",CCTV-5+体育赛事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png" group-title="CCTV",CCTV-6电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f0/CCTV-7_Logo.png" group-title="CCTV",CCTV-7国防军事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/CCTV-8_Logo.png" group-title="CCTV",CCTV-8电视剧
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png" group-title="CCTV",CCTV-9纪录
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="CCTV",CCTV-10科教
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="CCTV",CCTV-11戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221227384/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="CCTV",CCTV-12社会与法制
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="CCTV",CCTV-13新闻
+http://ott.mobaibox.com/PLTV/3/224/3221225560/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV",CCTV-14少儿
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/512px-CCTV-15_Logo.png" group-title="CCTV",CCTV-15音乐
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV",CCTV-16奥林匹克
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/512px-CCTV-17_Logo.png" group-title="CCTV",CCTV-17农业农村
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
